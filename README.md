@@ -11,10 +11,6 @@ This is a two-credit special topics course intended for students in the Masterâ€
 <br> III. Neural Networks, Deep Networks
 <br> IV. Model Interpretability, Feature Importance, Feature Reduction
 
-Course content will be taught across two terms (Winter 2020 and Fall 2020) and will culminate in studentsâ€™ completion of a final project at the end of the second semester.
-
-The instructor will be based remotely, with on-campus instruction tentatively taking place on the following Fridays and Saturdays in Winter 2020: January 31 and February 1, February 21 and 22, and March 20 and 21. The GSI will lead regular instruction on Fridays from 12:00 pm to 1:30 pm throughout the semester.
-
 #### Some major themes of this course are:
 - Python Programming in Data Science (Python basis, Numpy, pandas, Matplotlib, scikit-learn etc)
 - Machine learning end to end (preparation of data, normalizing, pipelines, model selection, parameter selection, cross validation, data visualization, model analysis, determining underfit and overfit, ...)
@@ -26,31 +22,3 @@ The instructor will be based remotely, with on-campus instruction tentatively ta
 - Bias and Variance trade off
 - Bagging, and random forest
 - Boosting, Gradient boosting and Ada Boost
-
-#### Instructors
-Ali Nazari<br>
-anazari@umich.edu<br>
-296 WEISER<br>
-Lectures:<br>
-Saturday 10:00 AM - 2:00 PM, on February 1, February 22, and March 21<br>
-Friday 12:00 AM - 1:30 PM, on January 31, February 21, and March 20 (Tentative)<br>
-
-GSI: Kaiqi Wang<br>
-kaiqiw@umich.edu<br>
-Labs:<br>
-Friday 12:00 AM - 1:30 PM<br>
-
-#### Website
-The first place to go for any course materials or resources is our course website at __ . All course materials and assignments are made available there.
-
-#### Grading
-- 3 Homeworks (30%)
-- 3 quizzes (10%)
-- Midterm exam (30%)
-- Final Project (30%)
-
-#### Quizzes and exam time
-
-
-#### Due Dates
-Due dates are written on each assignment. Late assignments will receive a zero.
