@@ -18,7 +18,7 @@ The instructor will be based remotely, with on-campus instruction tentatively ta
 #### Some major themes of this course are:
 - Python Programming in Data Science (Python basis, Numpy, pandas, Matplotlib, scikit-learn etc)
 - Machine learning end to end (preparation of data, normalizing, pipelines, model selection, parameter selection, cross validation, data visualization, model analysis, determining underfit and overfit, ...)
-- Linear Regression,ridge regression, lasso
+- Linear Regression, ridge regression, lasso
 - Linear Classification and logistic regression
 - SVM
 - Decision tree classifiers
@@ -31,9 +31,26 @@ The instructor will be based remotely, with on-campus instruction tentatively ta
 Ali Nazari<br>
 anazari@umich.edu<br>
 296 WEISER<br>
+Lectures:<br>
 Saturday 10:00 AM - 2:00 PM, on February 1, February 22, and March 21<br>
-Friday 12:00 AM - 1:30 PM, on January 31, February 21, and March 20<br>
+Friday 12:00 AM - 1:30 PM, on January 31, February 21, and March 20 (Tentative)<br>
 
 GSI: Kaiqi Wang<br>
 kaiqiw@umich.edu<br>
+Labs:<br>
 Friday 12:00 AM - 1:30 PM<br>
+
+#### Website
+The first place to go for any course materials or resources is our course website at __ . All course materials and assignments are made available there.
+
+#### Grading
+- 3 Homeworks (30%)
+- 3 quizzes (10%)
+- Midterm exam (30%)
+- Final Project (30%)
+
+#### Quizzes and exam time
+
+
+#### Due Dates
+Due dates are written on each assignment. Late assignments will receive a zero.
