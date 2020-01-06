@@ -3,8 +3,8 @@ This repository contains the notebooks and data of the MATH 700 lab courses in W
 
 
 ## Course Description
-#### Math 700: Machine Learning in Finance I
-##### Overview
+### Math 700: Machine Learning in Finance I
+#### Overview
 This is a two-credit special topics course intended for students in the Master’s Program in Quantitative Finance and Risk Management (Quant Program). The aim of the course is to prepare students in the Quant Program to meet the needs of finance industry employers by providing the students with a theoretical understanding of and practical experience in applying data science concepts as they pertain to financial mathematics. The course will focus on mathematical foundations, practical programming exercises, domain expertise, and technical communication and will be divided into the following content areas:
 <br> I. Classical Statistical Learning (Classification, Regression, Support Vector Machine, Nearest Neighbors)
 <br> II. Ensemble Learning, Dimensionality Reduction
@@ -15,7 +15,19 @@ Course content will be taught across two terms (Winter 2020 and Fall 2020) and w
 
 The instructor will be based remotely, with on-campus instruction tentatively taking place on the following Fridays and Saturdays in Winter 2020: January 31 and February 1, February 21 and 22, and March 20 and 21. The GSI will lead regular instruction on Fridays from 12:00 pm to 1:30 pm throughout the semester.
 
-##### Instructors
+#### Some major themes of this course are:
+- Python Programming in Data Science (Python basis, Numpy, pandas, Matplotlib, scikit-learn etc)
+- Machine learning end to end (preparation of data, normalizing, pipelines, model selection, parameter selection, cross validation, data visualization, model analysis, determining underfit and overfit, ...)
+- Linear Regression,ridge regression, lasso
+- Linear Classification and logistic regression
+- SVM
+- Decision tree classifiers
+- KNN Classifiers 
+- Bias and Variance trade off
+- Bagging, and random forest
+- Boosting, Gradient boosting and Ada Boost
+
+#### Instructors
 Ali Nazari<br>
 anazari@umich.edu<br>
 296 WEISER<br>
