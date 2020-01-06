@@ -23,4 +23,5 @@ Saturday 10:00 AM - 2:00 PM, on February 1, February 22, and March 21<br>
 Friday 12:00 AM - 1:30 PM, on January 31, February 21, and March 20<br>
 
 GSI: Kaiqi Wang<br>
+kaiqiw@umich.edu<br>
 Friday 12:00 AM - 1:30 PM<br>
